@@ -1,3 +1,15 @@
-Link para donload do Git:
+Link para donload do Git: https://git-scm.com/downloads
 
-O Git Bash é um terminar do git
+O Git Bash é um terminal entendido para otimizar do Git.
+Criar repositório - +New repository - repository name - Description
+Public - Add a Readme File - Create repository
+
+Criar links - ##Links Úteis
+[exemplo - Basico makdows](exemplo - https:// wwww.markdows)
+      nome que vc dar              link da internet 
+
+baixa repositório - clone o link (htts) - copia - abrir git bach.
+
+git clone (colar o linkx ) - enter 
+cd -  para entrar no repositório (pasta)
+git status - para verificar se deu certo
